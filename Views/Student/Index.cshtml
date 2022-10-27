@@ -1,0 +1,25 @@
+@model IEnumerable<NguyenVanToan.Models.Student>
+<p>
+    <a href="" class="btn btn-success" asp-action="Create">Create a new Student</a>
+</p>
+<table>
+    <tr>
+        <th>Stduent Id</th>
+        <th>Student Name</th>
+        <th></th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(m => item.StudentId)</td>
+            <td>@Html.DisplayFor(m => item.SdtudentName)</td>
+            <td>
+                <a href="" asp-action = "Edit" asp-route-id = "@item.StudentId">Sửa</a>
+                <a href="" asp-action = "Delete" asp-route-id = "@item.StudentId">Xó<a href=""></a></a>
+
+            </td>
+
+        </tr>
+    }
+</table>
