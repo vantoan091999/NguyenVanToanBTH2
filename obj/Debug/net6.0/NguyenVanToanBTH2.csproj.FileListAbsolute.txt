@@ -1,0 +1,8 @@
+C:\Users\nguye\OneDrive\Desktop\Dot_net_core\NguyenVanToanBTH2\obj\Debug\net6.0\NguyenVanToanBTH2.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Dot_net_core\NguyenVanToanBTH2\obj\Debug\net6.0\NguyenVanToanBTH2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\Dot_net_core\NguyenVanToanBTH2\obj\Debug\net6.0\NguyenVanToanBTH2.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Dot_net_core\NguyenVanToanBTH2\obj\Debug\net6.0\NguyenVanToanBTH2.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\Dot_net_core\NguyenVanToanBTH2\obj\Debug\net6.0\NguyenVanToanBTH2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Dot_net_core\NguyenVanToanBTH2\obj\Debug\net6.0\NguyenVanToanBTH2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguye\OneDrive\Desktop\Dot_net_core\NguyenVanToanBTH2\obj\Debug\net6.0\NguyenVanToanBTH2.RazorAssemblyInfo.cache
+C:\Users\nguye\OneDrive\Desktop\Dot_net_core\NguyenVanToanBTH2\obj\Debug\net6.0\NguyenVanToanBTH2.RazorAssemblyInfo.cs
