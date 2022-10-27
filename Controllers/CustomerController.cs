@@ -3,7 +3,7 @@ using NguyenVanToanBTH2.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DangHoangQuanBTH2.Controllers
+namespace NguyenVanToanBTH2.Controllers
 {
     public class CustomerController : Controller
     {
